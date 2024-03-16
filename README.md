@@ -32,6 +32,9 @@ This command launches the application's command-line interface, guiding you thro
 After launching the application, follow the on-screen prompts to interact with the habit tracker. Here are some of the things you can do:
 
 Add a New Habit: Follow the CLI prompts to input details for a new habit.
+
 Update an Existing Habit: Select a habit to mark it as completed for today. This helps in building streaks.
+
 View Analytics: Access visual and textual analytics on your habits, including the longest streaks and category breakdowns.
+
 Tutorial: If you're new, you can run through the tutorial to learn how to use the habit tracker effectively.
